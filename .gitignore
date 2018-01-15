@@ -1,0 +1,5 @@
+*.save
+UshiVN/log.txt
+UshiVN/errors.txt
+UshiVN/traceback.txt
+UshiVN/game/saves/*
